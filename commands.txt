@@ -1,0 +1,10 @@
+npx create-react-app .      create app
+npx create-react-app todolist_app  --scripts-version 1.1.5 
+
+npm start                   start the app on localhost:3000
+npm run build
+
+npm i uuid
+
+npm i react router dom
+npm install react-router-dom --save
